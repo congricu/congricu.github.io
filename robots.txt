@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://congricu.github.io/sitemap.congricu.gz
+Sitemap: https://congricu.github.io/app/sitemap.congricu.gz
+Sitemap: https://congricu.github.io/assets/sitemap.congricu.gz
+Sitemap: https://congricu.github.io/css/sitemap.congricu.gz
+Sitemap: https://congricu.github.io/data/sitemap.congricu.gz
+Sitemap: https://congricu.github.io/includes/sitemap.congricu.gz
+Sitemap: https://congricu.github.io/item/sitemap.congricu.gz
+Sitemap: https://congricu.github.io/src/sitemap.congricu.gz
